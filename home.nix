@@ -13,6 +13,9 @@
     pkgs.nix-output-monitor
     pkgs.jq
     pkgs.nethogs
+    pkgs.xclip
+    pkgs.git
+    pkgs.netcat
   ];
 
   # This value determines the Home Manager release that your
